@@ -1,0 +1,5 @@
+number1_str = input("Entrez un chiffre : ")
+number2_str = input("Entrez un deuxieme chiffre : ")
+number1 = int(number1_str)
+number2 = int(number2_str)
+print(f"les voici additionner {number1 + number2}, soustrait {number1 - number2}, multiplier {number1 * number2} et divisez {number1 / number2} !")
